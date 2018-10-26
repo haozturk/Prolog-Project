@@ -1,1 +1,2 @@
-See the description in the repository.
+See the description and the documentation in the repository.
+# Prolog-Project
